@@ -11,30 +11,37 @@ A comprehensive, modern **Hospital Management System** built with Java Swing and
 
 ### 🔐 Login Screen
 ![Login Screen](screenshots/login-screen.png)
+
 *Modern gradient login interface with professional styling and enhanced security*
 
 ### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
+
 *Real-time statistics dashboard with gradient header, live clock, and navigation cards*
 
 ### 👥 Patient Management
 ![Patient Management](screenshots/patient-management.png)
+
 *Comprehensive patient records management with search, filter, and CRUD operations*
 
 ### 👨‍⚕️ Doctor Management
 ![Doctor Management](screenshots/doctor-management.png)
+
 *Doctor profile management with specialization tracking and availability*
 
 ### 📅 Appointment Scheduling
 ![Appointment Scheduling](screenshots/appointment-scheduling.png)
+
 *Advanced appointment booking system with real-time availability checking*
 
 ### 📝 Patient Registration
 ![Patient Dialog](screenshots/patient-dialog.png)
+
 *User-friendly patient registration form with validation and modern UI*
 
 ### 🩺 Doctor Profile Creation
 ![Doctor Dialog](screenshots/doctor-dialog.png)
+
 *Professional doctor profile creation with specialization and contact management*
 
 ## 🔹 Tech Stack
